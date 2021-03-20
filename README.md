@@ -12,5 +12,4 @@ O desafio seria criar uma landing page sobre um site de criação de gráficos o
 
 Caso você tenha interesse em da uma olhada no desafio so é acessar o [Amazing Graph](http://https://devchallenge.com.br/challenges/5ec9a7fc10e94a38493d3910/details "Amazing Graph").
 
-#### Imagem doProjeto Concluido
-[![Landing page](Landing page "Landing page")](Desafios_DevChalleng/img/OKIspKG - Imgur.png "Landing page")
+![img](https://github.com/Lucas-Machado-Alves/Desafios_DevChalleng/blob/main/img/OKIspKG%20-%20Imgur.png?raw=true "img")
