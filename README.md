@@ -12,6 +12,6 @@ O desafio seria criar uma landing page sobre um site de criação de gráficos o
 - Modelo como design para utilizar como referência
 - Arquivo contendo o texto é utilizado
 
-Caso você tenha interesse em da uma olhada no desafio so é acessar o [Amazing Graph](http://https://devchallenge.com.br/challenges/5ec9a7fc10e94a38493d3910/details "Amazing Graph").
+Caso você tenha interesse em da uma olhada no desafio so é acessar o [Amazing Graph](https://devchallenge.com.br/challenges/5ec9a7fc10e94a38493d3910/details "Amazing Graph").
 
 
