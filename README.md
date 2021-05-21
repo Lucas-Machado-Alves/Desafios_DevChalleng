@@ -1,6 +1,6 @@
 ## Amazing Graph
 
-Este sesafio foi criado por @Lorenalgm no site DevChallenge.
+Este desafio foi criado por @Lorenalgm no site DevChallenge.
 
 ### Sobre o desafio
 O desafio seria criar uma landing page sobre um site de criação de gráficos onde ela disponibilizou os seguintes arquivos:
